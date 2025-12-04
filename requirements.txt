@@ -1,2 +1,2 @@
-streamlit
-yt-dlp
+streamlit==1.22.0
+yt-dlp==2025.11.12
